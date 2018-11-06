@@ -1,0 +1,23 @@
+{
+  "name": "functional-programming-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "currying-1.js",
+  "scripts": {
+    "test": "mocha */*/*.test.js && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/node": "^7.0.0",
+    "babel-plugin-import": "^1.10.0",
+    "expect.js": "^0.3.1",
+    "mocha": "^5.2.0"
+  }
+}
