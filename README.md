@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/yudapc/functional-programming-js.svg?branch=master)](https://travis-ci.com/yudapc/functional-programming-js)
+
+
 # functional-programming-js
 Javascript Sample functional programming using Ramda &amp; lodash/fp
 
