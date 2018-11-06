@@ -4,7 +4,7 @@
   "description": "",
   "main": "currying-1.js",
   "scripts": {
-    "test": "mocha */*/*.test.js && exit 1"
+    "test": "mocha */*/*.test.js"
   },
   "keywords": [],
   "author": "",
