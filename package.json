@@ -1,7 +1,7 @@
 {
   "name": "functional-programming-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Javascript Sample functional programming using Ramda & lodash/fp",
   "main": "currying-1.js",
   "scripts": {
     "test": "mocha */*/*.test.js"
