@@ -2,8 +2,8 @@ const R = require("ramda");
 const mergingName = (firstName, lastName) => firstName + " " + lastName;
 const doMergeName = R.curry(mergingName);
 const firstName = "Haha";
-const gotFirstName = doMergeName(firstName);
+const getFirstName = doMergeName(firstName);
 const lastName = "Hihi";
-const gotFullName = gotFirstName(lastName);
+const getFullName = getFirstName(lastName);
 
-console.log("full name is ", gotFullName);
+console.log("full name is ", getFullName);
