@@ -14,7 +14,7 @@
     "ramda": "^0.26.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.1.2",
+    "@babel/core": "^7.20.12",
     "@babel/node": "^7.0.0",
     "babel-plugin-import": "^1.10.0",
     "expect.js": "^0.3.1",
